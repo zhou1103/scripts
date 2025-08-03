@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from ase.io import write
 from ase.cluster import wulff_construction as wc
 
